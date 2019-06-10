@@ -51,6 +51,7 @@ Para visualização/edição, é recomendado que se utilize o aplicativo Unity R
 * A Unity irá pedir para alterar a Main Scene, clique em **OK**
 	* Caso não acontece, abra a pasta _Scenes_ e de dois cliques em _SampleScene_
 * Clique no botão **Play**. O jogo deve iniciar na máquina, e logo em seguida, no celular. Utilize o celular para jogar!
+* Para compilar o código e disponibilizar no celular, clique em **File** e em **Build and Run** (Ctrl+B)
 
 ## Explicação do Código/Projeto
 
